@@ -9,3 +9,15 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+
+
+//working from any where
+//steps to work on any project at any time
+//STEP1:
+  //login to idx with temporary email(abhishek00934130@gmail.com)
+  //choose the project on which you want to work
+  //hurray!  start code
+  
+
+  //NOTE NOT FORGOT TO LOGOUT AFTER USE
